@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeatureCrossExperiment", "FeatureCrossExperiment\FeatureCrossExperiment.csproj", "{90FDB47F-0EDD-41F5-8E5F-1F2B9D8D9554}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{73FC523A-57AD-46A7-986F-B77FBAA4D9A2}"
+	ProjectSection(SolutionItems) = preProject
+		california_housing.csv = california_housing.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90FDB47F-0EDD-41F5-8E5F-1F2B9D8D9554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FDB47F-0EDD-41F5-8E5F-1F2B9D8D9554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FDB47F-0EDD-41F5-8E5F-1F2B9D8D9554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FDB47F-0EDD-41F5-8E5F-1F2B9D8D9554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB5A4EEF-FE63-4B1C-AA09-1642EE488BCC}
+	EndGlobalSection
+EndGlobal
